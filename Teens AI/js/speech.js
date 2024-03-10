@@ -52,7 +52,7 @@ var iframe = document.getElementById("mainVideo");
         }
 
         function question(questionToChat) {
-            const token = 'skHcRnWn87JzrQRHMupfeQTBlbkFJaTVb5dEjkSu6nEGta1Aw';
+            const token = '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';
             console.log(questionToChat);
 
             $("#thinking").text("ШІ оброблює ваш запит...")
