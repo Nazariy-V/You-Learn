@@ -1,0 +1,1 @@
+To start the website open the "home.html" file in your web browser
